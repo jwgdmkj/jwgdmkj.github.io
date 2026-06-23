@@ -9,6 +9,7 @@ My research primary interests lie in developing efficient and lightweight vision
 ## News
 
 * **Jun 2026**: 🎉 Our paper **CUST** has been accepted to **ECCV 2026**!
+* **Apr 2026**: I have started my job at Mazda Motor Corporation.
 * **Aug 2025**: 🎉 Our paper **LMLT** has been accepted to **ICCV 2025 Workshop**!
 * **Aug 2024**: Graduated with an M.S. in Artificial Intelligence from Sogang University.
 
