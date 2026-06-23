@@ -5,6 +5,7 @@ I am an **Independent Researcher** based in Hiroshima, Japan. I recently obtaine
 My research primarily focuses on **building highly efficient vision models** and **diagnosing/resolving structural or algorithmic bottlenecks** to bridge the gap between theoretical models and practical hardware deployment. 
 
 Driven by curiosity and a passion for community-driven AI, **I am always open to new research collaborations, discussions, and academic opportunities.** Feel free to reach out if you would like to discuss potential projects or simply connect!
+
 ---
 
 ## News
