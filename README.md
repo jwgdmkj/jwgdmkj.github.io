@@ -25,7 +25,7 @@ Driven by curiosity and a passion for community-driven AI, **I am always open to
 * **CUST : Clustered Unit-level Similarity Transformer for Lightweight Image Super-Resolution**  
   **Jeongsoo Kim**  
   *European Conference on Computer Vision (ECCV)*, 2026.  
-  [[Paper]([https://jskim1.github.io](https://arxiv.org/pdf/2607.11088))] [[Code](https://github.com/jwgdmkj/CUST)]
+  [[Paper](https://arxiv.org/pdf/2607.11088)] [[Code](https://github.com/jwgdmkj/CUST)]
   
 
 * **LMLT : Low-to-high Multi-Level Vision Transformer for Lightweight Image Super-Resolution**  
