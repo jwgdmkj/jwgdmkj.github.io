@@ -1,11 +1,12 @@
 ## About me
 
-I am working at Mazda Motor Corporation currently, and an **Independent Researcher** based in Hiroshima, Japan. I recently obtained my M.S. in Computer Science from **Sogang University**, where I focused on computer vision and deep learning. 
+I am **Independent Researcher**. I recently obtained my M.S. in Computer Science from **Sogang University**, where I focused on computer vision and deep learning. 
 
 My research primarily focuses on **building highly efficient vision models** and **diagnosing/resolving structural or algorithmic bottlenecks** to bridge the gap between theoretical models and practical hardware deployment. 
 
 Driven by curiosity and a passion for community-driven AI, **I am always open to new research collaborations, discussions, and academic opportunities.** Feel free to reach out if you would like to discuss potential projects or simply connect!
 
+* Currently, I am looking for a PhD program to join in Fall 2027.*
 ---
 
 ## News
