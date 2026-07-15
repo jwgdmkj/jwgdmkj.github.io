@@ -1,3 +1,19 @@
+<p align="left">
+  <!-- CV 다운로드 배지 (방법 A 또는 B의 링크를 아래 URL 자리에 넣으세요) -->
+  <a href="/assets/CV.docx-1-2.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Curriculum_Vitae-PDF-red?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
+  </a>
+  <!-- 구글 스칼라 배지 -->
+  <a href="https://scholar.google.com/citations?user=NqAtWGQAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  <!-- 이메일 배지 -->
+  <a href="mailto:jeongskim512@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jeongskim512%40gmail.com-green?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+
 ## About me
 
 Hello! I am **Independent Researcher**. I recently obtained my M.S. in Computer Science from **Sogang University**, where I focused on computer vision and deep learning. 
