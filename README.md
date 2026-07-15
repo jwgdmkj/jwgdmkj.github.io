@@ -1,8 +1,10 @@
 ## About me
 
-I am **Independent Researcher**. I recently obtained my M.S. in Computer Science from **Sogang University**, where I focused on computer vision and deep learning. 
+Hello! I am **Independent Researcher**. I recently obtained my M.S. in Computer Science from **Sogang University**, where I focused on computer vision and deep learning. 
 
-My research primarily focuses on **building highly efficient vision models** and **diagnosing/resolving structural or algorithmic bottlenecks** to bridge the gap between theoretical models and practical hardware deployment. 
+My research primarily focuses on **building highly efficient vision models** and **diagnosing/resolving structural or algorithmic bottlenecks** to bridge the gap between theoretical models and practical hardware deployment.
+
+And also, I am interested in **Representation Editing** and **Parameter-Efficient Fine-Tuning** to learn or unlearn specific knowledge from model, and currently research how to isolate and eliminate domain bias, achieving domain-agnostic semantic alignment. 
 
 Driven by curiosity and a passion for community-driven AI, **I am always open to new research collaborations, discussions, and academic opportunities.** Feel free to reach out if you would like to discuss potential projects or simply connect!
 
