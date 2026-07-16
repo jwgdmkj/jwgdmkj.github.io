@@ -24,7 +24,7 @@ And also, I am interested in **Representation Editing** and **Parameter-Efficien
 
 Driven by curiosity and a passion for community-driven AI, **I am always open to new research collaborations, discussions, and academic opportunities.** Feel free to reach out if you would like to discuss potential projects or simply connect!
 
-> 🎓 **Looking for Opportunities:** I am currently seeking a **Ph.D. program** to join in **Fall 2027**.
+Looking for Opportunities: I am currently seeking a **Ph.D. program** to join in **Fall 2027**.
 ---
 
 ## News
