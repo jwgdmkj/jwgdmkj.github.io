@@ -1,0 +1,14 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* 사이드바 프로필 이미지 크기 및 둥글기 강제 지정 */
+.sidebar-logo,
+header img,
+#main_content img:first-of-type {
+  max-width: 150px !important;
+  height: auto !important;
+  border-radius: 50% !important;
+  display: block !important;
+  margin: 0 auto 15px auto !important;
+}
