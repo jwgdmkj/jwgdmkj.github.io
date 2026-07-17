@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: Jeongsoo Kim
-logo: '<img src="/assets/pic.jpg" alt="Profile" style="width: 150px; border-radius: 50%; display: block; margin: 0 auto;">'
+logo: /assets/pic.jpg
 description: >
   M.S. in Computer Science<br>
   (Sogang University)<br>
