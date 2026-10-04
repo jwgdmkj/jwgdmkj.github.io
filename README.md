@@ -18,7 +18,7 @@
 
 Hello! I am **Independent Researcher**. I recently obtained my M.S. in Computer Science from **Sogang University**, where I focused on computer vision and deep learning. 
 
-My research primarily focuses on **building highly efficient vision models** and **diagnosing/resolving structural or algorithmic bottlenecks** to bridge the gap between theoretical models and practical hardware deployment. Now, I want to expand my research on MLLM/Video models.
+My research primarily focuses on **building highly efficient vision models** and **diagnosing/resolving structural or algorithmic bottlenecks** to bridge the gap between theoretical models and practical hardware deployment. Now, I am trying to expand my research field on MLLM/Video models.
 
 And also, I am interested in **Representation Editing** and **Parameter-Efficient Fine-Tuning** to learn or unlearn specific knowledge from model, and currently research how to isolate and eliminate domain bias, achieving domain-agnostic semantic alignment. 
 
