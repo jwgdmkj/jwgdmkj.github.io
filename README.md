@@ -29,6 +29,7 @@ Driven by curiosity and a passion for community-driven AI, **I am always open to
 
 ## News
 
+* **Aug 2026**: 🎉 Our paper **SeoUL** has been accepted to **ECCV 2026 Workshop**!
 * **Jun 2026**: 🎉 Our paper **CUST** has been accepted to **ECCV 2026**!
 * **Apr 2026**: I have started my job at Mazda Motor Corporation.
 * **Aug 2025**: 🎉 Our paper **LMLT** has been accepted to **ICCV 2025 Workshop**!
@@ -40,6 +41,9 @@ Driven by curiosity and a passion for community-driven AI, **I am always open to
 
 ### 📄 International Conferences
 
+* **SeoUL: Semantic-Centric Alignment for Universal Cross-Domain Retrieval with Multimodal Large Language Models**  
+  *Workshop of European Conference on Computer Vision (ECCV)*, 2026. 
+  
 * **CUST : Clustered Unit-level Similarity Transformer for Lightweight Image Super-Resolution**  
   **Jeongsoo Kim**  
   *European Conference on Computer Vision (ECCV)*, 2026.  
@@ -52,9 +56,8 @@ Driven by curiosity and a passion for community-driven AI, **I am always open to
   [[Paper](https://openaccess.thecvf.com/content/ICCV2025W/AIM/html/Kim_LMLT__Low-to-high_Multi-Level_Vision_Transformer_for_Lightweight_Image_Super-Resolution_ICCVW_2025_paper.html)] [[Code](https://github.com/jwgdmkj/LMLT)] 
 
 
-### 🌐 Preprints
-* **SeoUL: Semantic-Centric Alignment for Universal Cross-Domain Retrieval with Multimodal Large Language Models**  
-  *Under Peer Review*, 2026.  
+<!--### 🌐 Preprints -->
+ 
 
 
 ---
