@@ -41,8 +41,10 @@ Driven by curiosity and a passion for community-driven AI, **I am always open to
 
 ### 📄 International Conferences
 
-* **SeoUL: Semantic-Centric Alignment for Universal Cross-Domain Retrieval with Multimodal Large Language Models**  
-  *Workshop of European Conference on Computer Vision (ECCV)*, 2026. 
+* **SeoUL: Semantic-Centric Alignment for Universal Cross-Domain Retrieval with Multimodal Large Language Models**
+  Jung Lee^, Hyungbin Mun^, **Jeongsoo Kim**, Sungwon Woo, Jongho Nang*
+  *Workshop of European Conference on Computer Vision (ECCV)*, 2026.
+  ^:Co-first Author, *:Corresponding Author
   
 * **CUST : Clustered Unit-level Similarity Transformer for Lightweight Image Super-Resolution**  
   **Jeongsoo Kim**  
